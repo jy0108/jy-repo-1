@@ -13,3 +13,5 @@
 # something from s3
 
 # refresh git stuff from s3 - append one line
+
+# create a new branch s3-branch locally, edit, PR, merge to main, delete s3-branch
